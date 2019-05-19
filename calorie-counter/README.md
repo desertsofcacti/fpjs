@@ -18,7 +18,7 @@ yarn start
 ### Build Prod Version
 
 ```
-npm run build
+yarn run build
 ```
 
 ### Features:
